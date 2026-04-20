@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: plato-neural-kernel
+Version: 0.1.0
+Summary: Execution trace to training pair converter for neural Plato
+License: MIT
+Project-URL: Repository, https://github.com/SuperInstance/plato-neural-kernel
+Requires-Python: >=3.8
